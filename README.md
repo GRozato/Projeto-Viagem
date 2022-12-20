@@ -1,0 +1,1 @@
+## Projeto desenvolvido durante o curso de JS na Alura, estudando a usabilidade de elementos no LocalStorage e manipulação de elementos DOM.
